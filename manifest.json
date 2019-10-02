@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "pullGit",
+    "version": "0.0.1",
+    "homepage": "https://www.baidu.com",
+    "icons": {
+        "16": "img/tiger.png",
+        "48": "img/tiger-mid.png",
+        "128": "img/tiger-max.png"
+    },
+    "description": "拉去最新的git项目",
+    "background": "background.js",
+    "homepage_url": "https://www.baidu.com"
+}
